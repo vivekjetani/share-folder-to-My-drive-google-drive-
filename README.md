@@ -48,9 +48,6 @@ Follow these steps to use the Data Backup Tool:
 3. Set the working directory and check the current path.
 4. Copy the data by running the last code cell.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions, bug reports, or want to contribute code, please follow the [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
 
